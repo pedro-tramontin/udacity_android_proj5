@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="city_name">São Paulo</string>
+
+    <!-- Drawer -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Menu items -->
+    <string name="parks">Parques</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="museums">Museus</string>
+    <string name="teams">Times</string>
+
+    <!-- Tools text -->
+    <string name="example">lorem ipsum</string>
+
+    <!-- Parks -->
+    <string-array name="parks_name_array">
+        <item>Ibirapuera</item>
+        <item>Villa Lobos</item>
+        <item>Da Independência</item>
+        <item>Horto Florestal</item>
+        <item>Trianon</item>
+    </string-array>
+    <string-array name="parks_address_array">
+        <item>Av. Pedro Alvares Cabral\nVila Mariana</item>
+        <item>Av. Prof. Fonseca Rodrigues, 2001\nAlto de Pinheiros</item>
+        <item>Av. Nazareth\nIpiranga</item>
+        <item>R. do Horto, 931\nTremembé</item>
+        <item>R. Peixoto Gomide, 949\nCerqueira Cesar</item>
+    </string-array>
+
+    <!-- Restaurants -->
+    <string-array name="restaurants_name_array">
+        <item>Coco Bambu Anhembi</item>
+        <item>Taste It Food &amp; Lounge</item>
+        <item>NOSU Culinária Japonesa</item>
+        <item>Fleming\'s Prime</item>
+        <item>Ristorantino</item>
+    </string-array>
+    <string-array name="restaurants_address_array">
+        <item>Av. Braz Leme, 201\nCasa Verde</item>
+        <item>R. Joinville, 515\nIbirapuera</item>
+        <item>R. Maria Curupaiti, 414\nSantana</item>
+        <item>Av. Cidade Jardim, 318\nJardim Europa</item>
+        <item>R. Dr. Melo Alves, 674\nJardins</item>
+    </string-array>
+    <string-array name="restaurants_hours">
+        <item>11:30 &#8211; 00:00</item>
+        <item>19:00 &#8211; 23:00</item>
+        <item>19:00 &#8211; 23:30</item>
+        <item>12:00 &#8211; 23:00</item>
+        <item>12:00 &#8211; 00:00</item>
+    </string-array>
+
+    <!-- Museums -->
+    <string-array name="museums_name_array">
+        <item>Pinacoteca</item>
+        <item>Catavento</item>
+        <item>Do Futebol</item>
+        <item>MASP</item>
+        <item>Instituto Tomie Ohtake</item>
+    </string-array>
+    <string-array name="museums_address_array">
+        <item>Pç. da Luz, 2\nLuz</item>
+        <item>Pç. Civica Ulisses Guimaraes\nParque D. Pedro II</item>
+        <item>Pç. Charles Miller\nPacaembu</item>
+        <item>Av. Paulista, 1578\nJardins</item>
+        <item>Av. Faria Lima, 201\nPinheiros</item>
+    </string-array>
+    <string-array name="museums_hours">
+        <item>09:00 &#8211; 19:00</item>
+        <item>09:00 &#8211; 17:00</item>
+        <item>09:00 &#8211; 16:00</item>
+        <item>10:00 &#8211; 18:00</item>
+        <item>11:00 &#8211; 20:00</item>
+    </string-array>
+
+    <!-- Teams -->
+    <string-array name="teams_name_array">
+        <item>São Paulo</item>
+        <item>Corinthians</item>
+        <item>Palmeiras</item>
+    </string-array>
+    <string-array name="teams_address_array">
+        <item>Pç. Roberto Gomes Pedrosa\nMorumbi</item>
+        <item>Av. Miguel Ignácio Curi, 111\nArtur Alvim</item>
+        <item>Av. Francisco Matarazzo, 1705\nÁgua Branca</item>
+    </string-array>
+</resources>
